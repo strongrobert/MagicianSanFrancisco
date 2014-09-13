@@ -31,7 +31,7 @@
   }
 
 
-/* ----- Mobile (Portrait) -- 320px ----- */
+/* ----- Mobile (Portrait) ----- */
   @media only screen and (max-width: 767px) {
     .container                { width:  96%; }
     .container .column        { margin:  1%; }

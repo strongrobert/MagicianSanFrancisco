@@ -15,7 +15,9 @@
 
     <nav><ul>
       {% for node in site.posts reversed %}
-        <li class="border-{{ node.bg }}"><a href="#{{node.title | remove:' ' | downcase}}">{{node.title}}</a></li>
+        <li class="border-{{ node.bg }}"><a href="#{{node.title | remove:' ' | downcase}}">
+          {%if node.short_title %}{{node.short_title}}{%else%}{{node.title}}{%endif%}
+        </a></li>
       {% endfor %}
     </ul></nav>
 
