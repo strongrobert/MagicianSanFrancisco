@@ -149,6 +149,13 @@ nav ul li:hover, nav ul li.active {
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
+.sectiondivider img {
+  width:200px;
+  height:240px;
+  position: static;
+  margin-top: -20px;
+}
+
 .sectiondivider .fa-stack {
   font-size: 130px;
   position: static;
@@ -165,7 +172,8 @@ nav ul li:hover, nav ul li.active {
   text-align:center;
   display:block;
   z-index:6;
-  width:240px
+  width:240px;
+  text-shadow: 1px 1px 3px #333;
 }
 
 /* mid size (tablets, landscapes) */
@@ -197,6 +205,10 @@ nav ul li:hover, nav ul li.active {
     padding:15px;
     top:-100px;
     margin-left:-100px;
+  }
+  .sectiondivider img {
+    width:150px;
+    height:180px;
   }
   .sectiondivider .fa-stack {
     font-size: 100px;
