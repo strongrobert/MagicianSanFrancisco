@@ -118,10 +118,6 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- sections/articles ----- */
 
-.container {
-  padding: 0 30px;
-}
-
 .section {
   position:relative;
   display:block;
