@@ -133,6 +133,7 @@ nav ul li:hover, nav ul li.active {
   min-height:0;
   text-align:center;
   background-color:#2e2e2e;
+  background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
 
