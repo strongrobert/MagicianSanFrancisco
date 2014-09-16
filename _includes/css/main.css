@@ -185,6 +185,24 @@ nav ul li:hover, nav ul li.active {
   text-shadow: 1px 1px 3px #333;
 }
 
+
+.columned {
+  -webkit-column-count: 3;
+  -moz-column-count:    3;
+  column-count:         3;
+
+  -webkit-column-gap: 40px;
+  -moz-column-gap:    40px;
+  column-gap:         40px;
+
+  -webkit-column-rule: 1px outset rgba(255,255,255,0.5);
+  -moz-column-rule:    1px outset rgba(255,255,255,0.5);
+  column-rule:         1px outset rgba(255,255,255,0.5);
+}
+.longlist { font-size: 14px !important; }
+.longlist li { margin-bottom: 3px; }
+
+
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
   nav { font-size:11px; }
@@ -227,5 +245,11 @@ nav ul li:hover, nav ul li.active {
     font-size:15px;
     bottom:30px;
     width:170px
+  }
+
+  .columned {
+    -webkit-column-count: 2;
+    -moz-column-count:    2;
+    column-count:         2;
   }
 }
