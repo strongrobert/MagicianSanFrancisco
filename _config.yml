@@ -15,9 +15,9 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "San Francisco Magician"
+title:       "San Francisco Magician - Comedy Entertainment in the Bay Area"
 keywords:    "magician, San Francisco, bay area, California, CA, Robert Strong, magic, wand, comedy, comedian, juggling, juggler, escapes, escape artist, pick-pocketing, pick-pocket, mind reading, mind reader, perform, event, venues, entertaining, About, Shows, photos, video, contact, show, yelp, birthday, best, for hire, party"
-description: "The San Francisco Magician, his Bay Area shows, videos, venues, and how to hire him!"
+description: "The San Francisco Magician, high-quality magic shows that engage and entertain your guests. 200+ shows a year!"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: "UA-54865607-1"
