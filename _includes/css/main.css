@@ -223,7 +223,7 @@ nav ul li:hover, nav ul li.active {
   column-rule:         1px outset rgba(255,255,255,0.5);
 }
 .longlist { font-size: 14px !important; }
-.longlist li { margin-bottom: 3px; }
+.longlist li { margin-bottom: 3px; list-style: none; }
 
 
 
