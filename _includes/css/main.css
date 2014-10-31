@@ -325,3 +325,12 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+/* Elevory was here */
+.sectiondivider-big 
+{    
+  width:350px;
+  height:350px;
+  padding:15px;
+  position:absolute;
+}
