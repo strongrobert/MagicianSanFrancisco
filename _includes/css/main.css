@@ -280,7 +280,8 @@ nav ul li:hover, nav ul li.active {
     min-width:60px;
     line-height:40px;
   }*/
-  nav ul li { min-width:90px;line-height:20px;}
+  nav ul {margin:0 auto;width:340px;}
+  nav ul li {line-height:20px;}
 }
 
 /* tiny size (phones) */
