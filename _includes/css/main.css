@@ -343,4 +343,4 @@ nav ul li:hover, nav ul li.active {
   margin-top: -31px;
 }
 
-.square p{padding:0 15%;}
+.square {padding:0 15% !important;}
