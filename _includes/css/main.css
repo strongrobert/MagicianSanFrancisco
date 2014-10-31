@@ -332,5 +332,13 @@ nav ul li:hover, nav ul li.active {
   width:350px;
   height:350px;
   padding:15px;
-  position:absolute;
+  display:inline-block;
+  margin-right:30px;
+  margin-bottom:10px;
+}
+
+.sectiondivider-big img
+{
+  width:267px;
+  height:320px;
 }
