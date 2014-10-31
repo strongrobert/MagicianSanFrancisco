@@ -342,3 +342,5 @@ nav ul li:hover, nav ul li.active {
   width: 272px;
   margin-top: -31px;
 }
+
+.small-width p{padding:0 15%;}
