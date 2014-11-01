@@ -344,7 +344,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .small-width {padding:0 15% !important;}
-.footer-list {margin: 0 auto;width: 35em;text-align:justify;}
+.footer-list {margin-left: 0 !important;margin: 0 auto;width: 23em;text-align:justify;}
 
 #contact-link a {font-size:24px;font-weight:bold;}
 
