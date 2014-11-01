@@ -343,6 +343,6 @@ nav ul li:hover, nav ul li.active {
   margin-top: -31px;
 }
 
-.square {padding:0 15% !important;}
+.small-width {padding:0 15% !important;}
 
-#contact a {font-size:24px;font-weight:bold;}
+#contact-link a {font-size:24px;font-weight:bold;}

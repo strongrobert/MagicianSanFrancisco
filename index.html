@@ -29,7 +29,7 @@
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
           <img src="{{page.icon}}" alt="section icon" />
-          <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
+          <h5 id="{{page.id}}"class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
         <div class="subtlecircle sectiondivider faicon">
