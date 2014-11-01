@@ -343,7 +343,7 @@ nav ul li:hover, nav ul li.active {
   margin-top: -31px;
 }
 
-.small-width {margin: 0 auto !important;margin-bottom:20px !important;width: 40em !important;text-align:justify;}
+.small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
 .footer-list {margin: 0 auto !important;margin-bottom:20px !important;width: 23em !important;text-align:justify;}
 
 #contact-link a {font-size:24px;font-weight:bold;}
