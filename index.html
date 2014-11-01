@@ -29,9 +29,6 @@
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
           <img src="{{page.icon}}" alt="section icon" />
-          {% if page.title == "About" %}
-          <h5 id="fake-center"class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
-          {% else %}
           <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
