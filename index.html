@@ -28,7 +28,7 @@
       <div id="{{page.title | remove:' ' | downcase}}" class="section bg-{{page.bg}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
-          <img src="{{page.icon}}" alt="section icon" />
+          <img src="{{page.icon}}" alt="{{page.seo}}" title="{{page.seo}}" />
           <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
