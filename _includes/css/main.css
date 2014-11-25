@@ -300,6 +300,7 @@ nav ul li:hover, nav ul li.active {
 /* for top image */
 @media only screen and (max-width:959px) {
   .sectiondivider-big {margin-right:0px;height:275px;width:275px;}
+  .sectiondivider-big > img {margin-top:-35px;}
 }
 
 /* mid size (tablets, landscapes) */
