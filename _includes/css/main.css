@@ -271,6 +271,31 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
+/* Elevory was here */
+.sectiondivider-big 
+{    
+  width:320px;
+  height:320px;
+  padding:15px;
+  display:inline-block;
+  margin-bottom:10px;
+}
+
+.sectiondivider-big img
+{
+  width: 272px;
+  margin-top: -31px;
+}
+
+.small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
+.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;}
+
+#contact-link a {font-size:24px;font-weight:bold;}
+
+.sectiondivider .text-blue {margin-left:5px !important;}
+
+
+
 
 /* for top image */
 @media only screen and (max-width:959px) {
@@ -329,26 +354,3 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
-
-/* Elevory was here */
-.sectiondivider-big 
-{    
-  width:320px;
-  height:320px;
-  padding:15px;
-  display:inline-block;
-  margin-bottom:10px;
-}
-
-.sectiondivider-big img
-{
-  width: 272px;
-  margin-top: -31px;
-}
-
-.small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
-.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;}
-
-#contact-link a {font-size:24px;font-weight:bold;}
-
-.sectiondivider .text-blue {margin-left:5px !important;}
