@@ -272,6 +272,10 @@ nav ul li:hover, nav ul li.active {
 }
 
 
+/* for top image */
+@media only screen and (max-width:959px) {
+  .sectiondivider-big {margin-right:0px;height:275px;width:275px;}
+}
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
@@ -333,7 +337,6 @@ nav ul li:hover, nav ul li.active {
   height:320px;
   padding:15px;
   display:inline-block;
-  margin-right:30px;
   margin-bottom:10px;
 }
 
