@@ -288,7 +288,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
-.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;}
+.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;width:30%;}
 
 #contact-link a {font-size:24px;font-weight:bold;}
 
@@ -312,11 +312,13 @@ nav ul li:hover, nav ul li.active {
   }
   /*nav ul {margin:0 auto;width:340px;}
   nav ul li {line-height:20px;}*/
+  .footer-list {width:43%;}
 }
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
   nav ul li { min-width:90px; line-height:20px; }
+  .footer-list {width:69%;}
 }
 
 /* anything not desktop */
