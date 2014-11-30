@@ -288,7 +288,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .small-width {margin: 0 auto !important;margin-bottom:20px !important;text-align:center;}
-.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;width:30%;}
+.footer-list {margin: 0 auto !important;margin-bottom:20px !important;text-align:justify;width:40%;}
 
 #contact-link a {font-size:24px;font-weight:bold;}
 
@@ -312,7 +312,7 @@ nav ul li:hover, nav ul li.active {
   }
   /*nav ul {margin:0 auto;width:340px;}
   nav ul li {line-height:20px;}*/
-  .footer-list {width:43%;}
+  .footer-list {width:48%;}
 }
 
 /* tiny size (phones) */
